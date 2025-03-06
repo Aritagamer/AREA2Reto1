@@ -1,2 +1,3 @@
-Esta es la rama main merge con QA y develop
+
+Esta es la rama QA
 
